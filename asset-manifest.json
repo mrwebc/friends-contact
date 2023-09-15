@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/friends-contact/static/css/main.bb125c5c.css",
+    "main.js": "/friends-contact/static/js/main.890fbc0b.js",
+    "index.html": "/friends-contact/index.html",
+    "main.bb125c5c.css.map": "/friends-contact/static/css/main.bb125c5c.css.map",
+    "main.890fbc0b.js.map": "/friends-contact/static/js/main.890fbc0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb125c5c.css",
+    "static/js/main.890fbc0b.js"
+  ]
+}
